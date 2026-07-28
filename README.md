@@ -143,7 +143,7 @@ if __name__ == "__main__":
 
 ## 🐍 `MINI-GAME` · Contribution Snake
 
-<sub>watch the snake nibble my commits! 🎮 (auto-updates via GitHub Actions)</sub>
+
 
 <br/>
 
