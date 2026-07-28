@@ -1,9 +1,9 @@
-<!-- ✨🌸 Helga Ingrid Hochbauer · pixel-hearted data scientist 🌸✨ -->
+<!-- ✨🌸 Helga Ingrid Hochbauer 🌸✨ -->
 
 <div align="center">
 
-<!-- ========== HERO BANNER ========== -->
-<img src="./assets/banner.png" alt="Code Cute — Hack the world with kindness" width="100%" />
+
+
 
 <br/>
 
@@ -31,54 +31,46 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🎀  PLAYER PROFILE                                    LVL.16  ║
+║  >_ TERMINAL: USER_PROFILE                          v.2026.1 ║
 ╠══════════════════════════════════════════════════════════════╣
-║  NAME .......... Helga Ingrid Hochbauer                        ║
-║  CLASS ......... Data Scientist 🧪 / Machine Learning Mage 🔮  ║
-║  QUEST ......... Turning messy data into cute insights ✨      ║
-║  ELEMENT ....... Pastel Pixels · Lofi Beats · Kind Code 💜     ║
-║  SPECIAL ....... Making the scary stuff look adorable 🐱       ║
+║  USER .......... Helga-Ingrid Hochbauer                      ║
+║  STATUS ........ M.Sc. Information Engineering @ TUM         ║
+║  ROLE .......... AI Software Developer & R&D Contributor     ║
+║  OBJECTIVE ..... Building scalable AI & Geospatial models    ║
+║  CORE_SKILLS ... Generative Models | Clustering | GIS Data   ║
+║  TECH_STACK .... [Python] [C++] [C] [Java] [QGIS] [Django]   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<table>
-<tr>
-<td width="70%" valign="top">
 
 ### 🌸 `> about_me.py`
 
 ```python
 class Helga:
     def __init__(self):
-        self.name    = "Helga Ingrid Hochbauer"
-        self.role    = "Data Scientist"
-        self.loves   = ["data", "ML", "pixel art", "cats", "galaxies"]
-        self.motto   = "Hack the world with kindness 💜"
+        self.name  = "Helga-Ingrid Hochbauer"
+        self.role  = "AI Software Developer & R&D Contributor 👩‍💻"
+        self.loves = ["Generative AI", "Geospatial Data", "Machine Learning", "Galaxies ✨"]
+        self.motto = "Turning complex spatial data into beautiful insights 💜"
 
     def current_focus(self):
         return [
-            "🔬  Digging through data for hidden patterns",
-            "🧠  Training models that actually behave",
-            "📊  Making charts almost as cute as this readme",
-            "🌱  Learning something new every single day",
+            "🎓 Leveling up: Pursuing my M.Sc. in Information Engineering @ TUM",
+            "🧠 Training generative models (and hoping they behave! 😅)",
+            "🔬 Clustering complex datasets to discover hidden patterns",
+            "🗺️ Blending AI with GIS to make scary tech look approachable ✨"
         ]
 
     def say_hi(self):
-        print("Let's build something amazing together! ✨")
+        print("Let's build something amazing together! Open to tech chats & R&D. 🚀💜")
+
+if __name__ == "__main__":
+    helga = Helga()
+    helga.say_hi()
 ```
 
-</td>
-<td width="30%" valign="top" align="center">
-
-<img src="./assets/pixel-cat.png" alt="pixel cat companion" width="150" />
-
-<sub>🐾 *my debugging assistant* 🐾</sub>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -171,13 +163,9 @@ class Helga:
 
 <div align="center">
 
-## 🌌 `CONNECT` · Find Me In The Galaxy
+##  `CONNECT` 
 
-<img src="./assets/galaxy.png" alt="pixel galaxy" width="130" align="right" />
-
-<br/>
-
-Let's team up! Send a message across the stars 💫
+Let's team up!
 
 <a href="https://www.linkedin.com/in/helga-ingrid-hochbauer-54a8802b3/">
   <img src="https://img.shields.io/badge/LinkedIn-B79CED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
