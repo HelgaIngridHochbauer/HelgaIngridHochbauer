@@ -163,7 +163,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-##  `CONNECT` 
+##  `LET'S CONNECT` 
 
 Let's team up!
 
