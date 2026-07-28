@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-## 🐍 `MINI-GAME` · Contribution Snake
+## 🐍 Little Contribution Snake
 
 
 
