@@ -124,9 +124,7 @@ if __name__ == "__main__":
 
 ## 📊 `STATS SCREEN`
 
-<img src="https://metrics.lecoq.io/HelgaIngridHochbauer?template=classic&base=header,repositories&config.theme=tokyonight&config.timezone=Europe%2FBucharest" alt="GitHub Metrics" />
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=HelgaIngridHochbauer&hide_border=true&background=1A1423&stroke=B79CED&ring=F6C6EA&fire=FFB6C1&currStreakLabel=B5EAD7&sideLabels=C9B6E4&currStreakNum=F6C6EA&sideNums=A0E7E5&dates=6C5B7B" alt="GitHub streak" />
 
