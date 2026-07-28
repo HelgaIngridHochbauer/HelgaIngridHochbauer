@@ -9,7 +9,7 @@
 
 <!-- ========== TYPING INTRO ========== -->
 <a href="https://github.com/HelgaIngridHochbauer">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=B79CED&center=true&vCenter=true&width=800&height=70&lines=Hi+there!+I'm+Helga+%E2%9C%A8;Data+Scientist+%26+Pixel-Hearted+Hacker;Turning+data+into+magic+%F0%9F%AA%84;while+True%3A+learn()%3B+create()%3B+be_kind()" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=B79CED&center=true&vCenter=true&width=800&height=70&lines=Hi+there!+I'm+Helga+%E2%9C%A8;AI+Developer+%26+Spatial+Data+Explorer;Turning+complex+data+into+magic+%F0%9F%AA%84;while+True%3A+learn()%3B+create()%3B+be_kind()" alt="Typing intro" />
 </a>
 
 <br/>
