@@ -177,14 +177,9 @@ Let's team up!
 <br/><br/>
 
 ```
-✧･ﾟ: *✧･ﾟ:*  thanks for visiting my little corner of the universe  *:･ﾟ✧*:･ﾟ✧ <br/><br/>
+✧･ﾟ: *✧･ﾟ:*  thanks for visiting my little corner of the universe  *:･ﾟ✧*:･ﾟ✧ 
 ```
 
-<sub>
-
-  
-              may your code compile & your tea stay warm ☕💜
-
-</sub>
+<sub>may your code compile & your tea stay warm ☕💜</sub>
 
 </div>
