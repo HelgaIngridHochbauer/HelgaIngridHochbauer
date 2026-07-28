@@ -124,8 +124,7 @@ if __name__ == "__main__":
 
 ## 📊 `STATS SCREEN`
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=HelgaIngridHochbauer&show_icons=true&hide_border=true&title_color=B79CED&icon_color=F6C6EA&text_color=C9B6E4&bg_color=1A1423" alt="GitHub stats" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelgaIngridHochbauer&layout=compact&hide_border=true&title_color=B79CED&text_color=C9B6E4&bg_color=1A1423" alt="Top languages" />
+<img src="https://metrics.lecoq.io/HelgaIngridHochbauer?template=classic&base=header,repositories&config.theme=tokyonight&config.timezone=Europe%2FBucharest" alt="GitHub Metrics" />
 
 <br/><br/>
 
