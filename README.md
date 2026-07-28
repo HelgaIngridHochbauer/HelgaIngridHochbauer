@@ -176,11 +176,13 @@ Let's team up!
 
 <br/><br/>
 
+
+
+<sub>
 ```
   ✧･ﾟ: *✧･ﾟ:*  thanks for visiting my little corner of the universe  *:･ﾟ✧*:･ﾟ✧
-              may your code compile & your coffee stay warm ☕💜
+              may your code compile & your tea stay warm ☕💜
 ```
-
-<sub>⭐ *be kind · stay curious · keep building* ⭐</sub>
+</sub>
 
 </div>
