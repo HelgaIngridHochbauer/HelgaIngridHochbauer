@@ -180,7 +180,7 @@ Let's team up!
 
 <sub>
 ```
-  ✧･ﾟ: *✧･ﾟ:*  thanks for visiting my little corner of the universe  *:･ﾟ✧*:･ﾟ✧
+  ✧･ﾟ: *✧･ﾟ:*  thanks for visiting my little corner of the universe  *:･ﾟ✧*:･ﾟ✧ <br/><br/>
               may your code compile & your tea stay warm ☕💜
 ```
 </sub>
