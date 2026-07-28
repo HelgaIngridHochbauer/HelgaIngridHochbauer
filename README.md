@@ -176,9 +176,9 @@ Let's team up!
 
 <br/><br/>
 
-```
+<sub>
 ✧･ﾟ: *✧･ﾟ:*  thanks for visiting my little corner of the universe  *:･ﾟ✧*:･ﾟ✧ 
-```
+</sub>
 
 <sub>may your code compile & your tea stay warm ☕💜</sub>
 
